@@ -1,0 +1,5 @@
+# FILE: .bandit
+[bandit]
+exclude = tests   #Excluye fichero o directorios
+#tests = B201      #Listado de tests a realizar
+skips = B608      #Excluye reglas
